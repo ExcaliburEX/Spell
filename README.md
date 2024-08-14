@@ -335,3 +335,15 @@
 - [2022年](#2022年)
   - [2022年2月](#2022年2月)
     - [2022.2.5](#202225)
+- [Star History](#star-history)
+
+
+# Star History
+
+<a>
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ExcaliburEX/Spell&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ExcaliburEX/Spell&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ExcaliburEX/Spell&type=Date" />
+ </picture>
+</a>
