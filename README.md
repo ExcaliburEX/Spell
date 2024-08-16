@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<th colspan="1" align = "center">2024-08-15 依旧黄昏</th>
+<th colspan="4" align = "center">2024-08-15 依旧黄昏</th>
 </tr>
 <tr>
 <td align = "center" ><b>🌖</b></td>
@@ -20,7 +20,6 @@
 <td align = "center"><img src="https://s2.loli.net/2024/08/16/bX9aKHvSA7RVZEu.jpg" width=150 ></td>
 <td align = "center"><img src="https://s2.loli.net/2024/08/16/52yNt7PS3s6aZHW.jpg" width=150 ></td>
 </tr>
-
 </table>
 
 
@@ -324,6 +323,7 @@
 
 **💤一个不起眼的目录**
 - [2024](#2024)
+  - [2024.08.15](#20240815)
   - [2024.08.14](#20240814)
   - [2024.08.12](#20240812)
   - [2024.08.11](#20240811)
