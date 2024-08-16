@@ -1,11 +1,35 @@
 # 2024
 
+## 2024.08.15
+
+依旧是不太热且夕阳很美的一天。晚上与忠太终于开始了腾讯会议，分享了一下他的滑动小车一般的股票，看似游刃有余的他原来全在玩蹦极，看透世界的语气中流露出一丝淡淡忧伤。交流一波教育片心得之后结束了本次会议。此外最近也开始补起鬼灭的柱训练篇了，我们是时候回到以前的感觉了。
+
+<table>
+<tr>
+<th colspan="1" align = "center">2024-08-15 依旧黄昏</th>
+</tr>
+<tr>
+<td align = "center" ><b>🌖</b></td>
+<td align = "center" ><b>🌗</b></td>
+<td align = "center" ><b>🌘</b></td>
+<td align = "center" ><b>🌕️</b></td>
+</tr>
+<tr>
+<td align = "center"><img src="https://s2.loli.net/2024/08/16/VxbG6uDO5RXIpH9.jpg" width=150 ></td>
+<td align = "center"><img src="https://s2.loli.net/2024/08/16/tAIBY1ukdNL4qyG.jpg" width=150 ></td>
+<td align = "center"><img src="https://s2.loli.net/2024/08/16/bX9aKHvSA7RVZEu.jpg" width=150 ></td>
+<td align = "center"><img src="https://s2.loli.net/2024/08/16/52yNt7PS3s6aZHW.jpg" width=150 ></td>
+</tr>
+
+</table>
+
 
 
 ## 2024.08.14
 
 昨天一天都是生气的一天，在沙发睡了一夜醒来，由于某人彻夜外放dy这种zz操作。今天发生了什么呢，细细想来好像并没有什么特别的，除了外面风很大，依旧是很美的夕阳，不同的是阴天大风下的夕阳。除此以外，我最大的想法就是越来越讨厌自己。四妹在努力学习。生活范围越来越小，黑神话越来越近。
 人生到处知何似
+
 <table>
 <tr>
 <th colspan="1" align = "center">2024-08-14 这世界除了我不存在任何人</th>
