@@ -212,7 +212,7 @@
 
 我想对于我来说，能赋予我勇气来应对任何人任何事的挑战的，就是在这里一直记录下去的这件事本身吧。那些视频或许也应该继续了。
 
-https://github.com/ExcaliburEX/Spell/blob/main/sd1723264035_2.MP4
+https://github.com/user-attachments/assets/e2d0995d-c841-4755-8486-611cb203b16e
 
 ![](https://s2.loli.net/2024/08/11/hY8EmgZfDFPWpc5.jpg)
 
