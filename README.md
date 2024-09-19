@@ -32,13 +32,26 @@ https://github.com/user-attachments/assets/1aae986e-e4de-43ae-ba42-566da350dcd1
 
 加班，台风来袭，来临前的夕阳橙黄惊艳，连理之事四人烦扰，咖啡，出击，像，言说特别。后来，深夜出游，街上无人，Libertango Bar初遇，海里捞月，生气，狂风暴雨中结束今日旅程。
 
+<table>
+<tr>
+<th colspan="1" align = "center">2024-09-15 那年中秋</th>
+</tr>
+
+<tr>
+<td align = "center" ><b>🌖</b></td>
+<td align = "center" ><b>🌗</b></td>
+</tr>
+
+<tr>
+<td align = "center"><img src="https://s2.loli.net/2024/09/20/Vy3P2QHcgYCvMsI.jpg" width=300 ></td>
+<td align = "center"><img src="https://s2.loli.net/2024/09/20/hnvz1VgPaoCAm5w.jpg" width=300 ></td>
+</tr>
+
+</table>
 
 
-## 2024.09.14
 
-## 2024.09.13
 
-## 2024.09.12
 
 ## 2024.09.11
 
@@ -49,6 +62,8 @@ https://github.com/user-attachments/assets/1aae986e-e4de-43ae-ba42-566da350dcd1
 ## 2024.09.10
 
 既然组不起饭局，自行买了一堆花以及帮别人带花，雨中送到了老师的工位，并且给每个人拍了照片。记得那时醒来，车里的空调是关闭的，出了一身汗，再睁眼已经过去了一小时，我为何会为zmq的事而闷闷不乐呢，明明是我结束了那段没有意义的旅程。认识了170，恐怕是比较少见的情况了。
+
+![IMG_1607.JPEG](https://s2.loli.net/2024/09/20/C9oyISEMfLUXZ5N.jpg)
 
 
 
