@@ -22,6 +22,8 @@ I love her. but I lost her but i miss her
 
 吃席，然后是天平战役，真正登顶的那一刻往昔的记忆便一瞬复苏，我们总想登顶，但到那一刻才发现，痛苦依旧。天云寺与那段下坡路，心情逐渐明快。故地重游的感觉，就像是失去一切后的突然清醒。回到家便是年轻人睡眠就是好，倒头就睡。
 
+![thumbnailwebp](https://static.flomoapp.com/file/2025-03-12/188323/1741713702.196636_6zCvGhDY.jpg?OSSAccessKeyId=LTAI5tAXfrgN5cBQ7Bym1EcM&Expires=1741973054&Signature=eRVCsmu%2BmrSEo2hsGxiiME5QTYk%3D)
+
 
 
 ## 2025.3.8
